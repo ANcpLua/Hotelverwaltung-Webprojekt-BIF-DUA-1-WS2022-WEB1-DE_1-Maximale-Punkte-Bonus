@@ -1,10 +1,10 @@
 # Hotelverwaltung-Webproject-BIF-DUA-1-WS2022-WEB1-DE_1
 
-Dieses Projekt musste als 2er Team absolviert werden, mein partner war @panda-lambda (erstklassiger, korrekter kerl - hat von anfang bis ende spaß gemacht).
+Dieses Projekt musste von zwei Personen bearbeitet werden und ich hatte das große Glück, mit @panda-lambda zusammenzuarbeiten. Er war ein erstklassiger und korrekter Partner, und es hat von Anfang bis Ende großen Spaß gemacht.
 
-Geprüft und Bewertet von Dipl.-Ing.(FH) Christian Huber, MSc (auch mega korrekter typ).
+Überprüft und bewertet von Dipl.-Ing.(FH) Christian Huber, MSc (ein ebenso unglaublich korrekter Typ).
 
-Volle Punktezahl wurde erreicht.
+Die höchstmögliche Punktzahl wurde erreicht.
 
 readme.txt
 
