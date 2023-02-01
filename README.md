@@ -20,7 +20,11 @@ Diese Datenbank benutzt kein Passwort! Dies sollte auf jeden Fall schnellstmögl
 Siehe zB. hier:  https://kinsta.com/knowledgebase/xampp-mysql-password/
 
 Es gibt folgende Benutzer:
+
 guest1 mit PW: guest1
+
 guest2 mit PW: guest2
+
 guest3 mit PW: guest3 (kann sich nicht einloggen)
+
 admin mit PW: admin
