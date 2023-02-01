@@ -5,7 +5,7 @@ readme.txt
 2) XAMPP muss gestartet werden, 
 "Apache" und "MySQL" müssen gestartet werden. 
 
-3)Bilderverkleinerung: 
+3) Bilderverkleinerung: 
 Im XAMPP->Control Panel
 Bei Apache->Config->php.ini
 das ";" vor "extension=gd" muss entfernt werden, damit das Thumbnail bei Newsupload erstellt werden kann. 
