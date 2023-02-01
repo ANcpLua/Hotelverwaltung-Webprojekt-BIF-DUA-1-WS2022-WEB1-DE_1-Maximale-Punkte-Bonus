@@ -1,5 +1,6 @@
 # Web-Hotel-Project-FH-Season-1 
 BIF-DUA-1-WS2022-WEB1-DE_1
+
 readme.txt
 1) XAMPP muss installiert werden und der gepackte Ordner in die htdocs Datei in einen Ordner namens "hotelsite" entpackt werden. 
 
