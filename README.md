@@ -1,6 +1,6 @@
 # Hotelverwaltung-Webprojekt-BIF-DUA-1-WS2022-WEB1-DE_1
 
-Es war eine Freude, an diesem Projekt mit [panda-lambda] zusammenzuarbeiten. 
+Es war eine Freude, an diesem Projekt mit [@panda-lambda] zusammenzuarbeiten. 
 
 Dank unserer großartigen Zusammenarbeit haben wir ein insane gutes Produkt/Website erstellt.
 
