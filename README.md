@@ -9,7 +9,7 @@ Dank unserer großartigen Zusammenarbeit haben wir ein insane gutes Produkt/Webs
 
 Überprüft und bewertet von Dipl.-Ing.(FH) Christian Huber, MSc (ein ebenso unglaublich korrekter Typ).
 
-Die höchstmögliche Punktzahl wurde erreicht.
+Die höchstmögliche Punktzahl wurde erreicht. !JavaScript war nicht erlaubt!
 
 readme.txt
 
