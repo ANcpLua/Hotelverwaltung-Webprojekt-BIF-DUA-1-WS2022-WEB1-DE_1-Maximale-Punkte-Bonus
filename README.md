@@ -1,6 +1,6 @@
 # Hotelverwaltung-Webproject-BIF-DUA-1-WS2022-WEB1-DE_1
 
-Ich hatte das Vergnügen, an diesem 2-Personen-Vorhaben mit @panda-lambda zu arbeiten. Ein Projekterfolg, der nur durch die ausgezeichnete Zusammenarbeit möglich war.
+Ich hatte das Vergnügen, an diesem Zweimann-Projekt mit @panda-lambda zu arbeiten. Ein erfolgreiches Ergebnis, das durch die hervorragende Zusammenarbeit erzielt wurde.
 
 Überprüft und bewertet von Dipl.-Ing.(FH) Christian Huber, MSc (ein ebenso unglaublich korrekter Typ).
 
