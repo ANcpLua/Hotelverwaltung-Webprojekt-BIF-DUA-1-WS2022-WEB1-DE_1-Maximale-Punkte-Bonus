@@ -1,6 +1,11 @@
-# Hotelverwaltung-Webproject-BIF-DUA-1-WS2022-WEB1-DE_1
+# Hotelverwaltung-Webprojekt-BIF-DUA-1-WS2022-WEB1-DE_1
 
-Mit @panda-lambda hatte ich das Vergnügen, an diesem Zweimann-Projekt beteiligt zu sein. Unsere großartige Zusammenarbeit hat uns ein erfolgreiches Ergebnis erzielt.
+Es war eine Freude, an diesem Projekt mit @panda-lambda zusammenzuarbeiten. 
+
+Dank unserer großartigen Zusammenarbeit haben wir ein insane gutes Produkt/Website erstellt.
+
+
+
 
 Überprüft und bewertet von Dipl.-Ing.(FH) Christian Huber, MSc (ein ebenso unglaublich korrekter Typ).
 
